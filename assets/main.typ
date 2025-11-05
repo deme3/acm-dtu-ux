@@ -1,4 +1,4 @@
-#import "@preview/acm-dtu-ux:0.1.0": *
+#import "@preview/ready-acm-dtu-ux:0.1.0": *
 
 #show: project.with(
   title: "One AR to rule them all",
@@ -18,7 +18,7 @@
 // your own content!
 
 = Introduction (JoA, JaA)
-This LaTeX project serves as an ACM SIG Proceedings boilerplate specifically for _02266 - UX Design Prototyping_ and _02266 - User Experience Engineering_.
+This Typst project serves as an ACM SIG Proceedings boilerplate specifically for _02266 - UX Design Prototyping_ and _02266 - User Experience Engineering_.
 
 Make a copy of the project and edit it as needed.
 
